@@ -22,13 +22,12 @@
   background: var(--cor-11);
   margin-top: 16px;
 }
-
 .footer li {
   margin-bottom: 16px;
 }
 .footer-redes {
-  display: flex;
-  gap: 32px;
+  display: inline-flex;
+  gap: 30px;
 }
 .footer a:hover {
   color: var(--cor-0);
